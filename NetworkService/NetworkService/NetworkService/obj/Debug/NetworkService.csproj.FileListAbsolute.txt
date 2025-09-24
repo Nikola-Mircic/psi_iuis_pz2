@@ -29,3 +29,5 @@ D:\Projects\psi_iuis_pz2\NetworkService\NetworkService\NetworkService\obj\Debug\
 D:\Projects\psi_iuis_pz2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
 D:\Projects\psi_iuis_pz2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
 D:\Projects\psi_iuis_pz2\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\Projects\psi_iuis_pz2\NetworkService\NetworkService\NetworkService\obj\Debug\Theme\AppTheme.baml
+D:\Projects\psi_iuis_pz2\NetworkService\NetworkService\NetworkService\obj\Debug\App.baml

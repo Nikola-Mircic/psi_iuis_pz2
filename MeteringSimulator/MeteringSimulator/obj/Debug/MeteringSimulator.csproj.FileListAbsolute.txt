@@ -14,3 +14,20 @@ D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\
 D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
 D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
 D:\!FTN\!HCI VEZBE\2024-25\PZ2\Projekat\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe.config
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\App.baml
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\Projects\psi_iuis_pz2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
